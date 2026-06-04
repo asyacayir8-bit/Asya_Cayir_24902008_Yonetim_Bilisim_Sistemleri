@@ -1,0 +1,1 @@
+# Asya_Cayir_24902008_Yonetim_Bilisim_Sistemleri
