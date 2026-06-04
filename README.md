@@ -5,8 +5,6 @@
 - **Adı Soyadı:** Asya Çayır
 - **Öğrenci Numarası:** 24902008
 - **Bölümü:** Yönetim Bilişim Sistemleri (YBS)
-- **Öğretim Elemanı:** Dr. Öğr. Üyesi Tohid YOUSEFİ
-
 ---
 
 ## 1. PROJE TANIMI VE AMACI
@@ -81,6 +79,15 @@ Elde edilen analizlerin grafiksel olarak `.png` formatında kaydedilmesini sağl
 
 ---
 
+<img width="1024" height="1024" alt="ekran_goruntusu_analiz" src="https://github.com/user-attachments/assets/0ec71ac4-f5b6-48ea-8906-6137fc50a1c4" />
+<img width="1486" height="884" alt="aylik_analiz_cizgi" src="https://github.com/user-attachments/assets/fa3dc23a-3ac0-4c3f-b886-909bca8b8289" />
+<img width="1186" height="883" alt="gelir_gider_toplam_bar" src="https://github.com/user-attachments/assets/7f8d53fe-5b95-47af-a1f2-f00d06346202" />
+<img width="980" height="1034" alt="gelir_gider_pasta" src="https://github.com/user-attachments/assets/2411b2a3-dce7-458a-9b5d-5e9c5e175481" />
+<img width="1024" height="1024" alt="ekran_goruntusu_menu" src="https://github.com/user-attachments/assets/6b831fc0-1220-4b04-a3f2-f117b6d436c6" />
+<img width="1024" height="1024" alt="ekran_goruntusu_listele" src="https://github.com/user-attachments/assets/2d123b24-214c-41d8-8684-269ad597c484" />
+
+
+
 ## 4. KULLANIM KILAVUZU
 
 ### Programın Çalıştırılması
@@ -101,45 +108,3 @@ Elde edilen analizlerin grafiksel olarak `.png` formatında kaydedilmesini sağl
    - **8:** Hatalı girilen bir işlemi ID numarası ile silme.
 
 ---
-
-## 5. GIT SÜRÜM TAKİBİ VE TESLİM REHBERİ (Eğitmen için Detaylar)
-
-Teknik şartnamenin **GITHUB KULLANIMI** maddesindeki yönergelere tam uyum sağlanmıştır:
-1. **Repo Adı:** `24902008-AsyaCayir-PythonProje`
-2. **Görünürlük (Visibility):** `PRIVATE` (Gizli) olarak ayarlanmalıdır.
-3. **Collaborator Ekleme:** Dersin öğretim elemanı olan **tohid.yousefi** kullanıcı adı projeye ortak çalışan (Collaborator) olarak eklenmelidir.
-4. **Commit Yapısı:** Projede sürüm takibini göstermek amacıyla 4 ana aşamada commit yapılmıştır. Eğer bilgisayarınızda git yüklü değilse, aşağıdaki commit aşamalarını yerel terminalinizde sırasıyla çalıştırarak reposunuza gönderebilirsiniz:
-
-#### Git Aşamaları Adımları (Terminal Kodları):
-```bash
-# Proje klasörüne giriş yapın
-cd Asya_Cayir_24902008_Yonetim_Bilisim_Sistemleri
-
-# Git deposunu başlatın
-git init
-
-# 1. Aşama Commit: Proje yapısının kurulması ve Modellerin eklenmesi
-git add finans_modeli.py utils.py
-git commit -m "First commit: Proje yapısı oluşturuldu, finans modeli ve yardımcı fonksiyonlar eklendi"
-
-# 2. Aşama Commit: İşlem yönetimi ve dosya işlemlerinin eklenmesi
-git add islem_yonetimi.py dosya_islemleri.py
-git commit -m "Second commit: Gelir/gider yönetimi ve CSV dosya okuma/yazma modülleri eklendi"
-
-# 3. Aşama Commit: Analiz ve Görselleştirme modüllerinin eklenmesi
-git add analiz.py gorsellestirme.py
-git commit -m "Third commit: Pandas & NumPy veri analizleri ve Matplotlib görselleştirme modülleri tamamlandı"
-
-# 4. Aşama Commit: Jupyter Notebook, Readme Raporu ve Test verilerinin tamamlanması
-git add main.ipynb Readme.md
-git commit -m "Fourth commit: Jupyter notebook arayüzü, Readme dokümantasyonu tamamlandı ve testler uygulandı"
-
-# GitHub reponuzu bağlayın ve gönderin
-git remote add origin https://github.com/asya-cayir/24902008-AsyaCayir-PythonProje.git
-git branch -M main
-git push -u origin main
-```
-
----
-*Başarılar dilerim.*  
-**Dr. Öğr. Üyesi Tohid YOUSEFİ**
