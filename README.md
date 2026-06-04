@@ -1,6 +1,4 @@
 # KİŞİSEL FİNANS VE HARCAMA TAKİP SİSTEMİ
-## KAPADOKYA ÜNİVERSİTESİ — BGY210 PYTHON PROGRAMLAMA - II DERSİ FİNAL PROJE ÖDEVİ
-
 ### ÖĞRENCİ BİLGİLERİ
 - **Adı Soyadı:** Asya Çayır
 - **Öğrenci Numarası:** 24902008
