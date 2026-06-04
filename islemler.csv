@@ -1,0 +1,16 @@
+id,tutar,tarih,aciklama,tip
+1,45000.0,2026-04-15,Maaş Geliri,gelir
+2,15000.0,2026-04-20,Freelance Proje,gelir
+3,48000.0,2026-05-15,Maaş Geliri,gelir
+4,8000.0,2026-05-25,Yatırım Temettü,gelir
+5,50000.0,2026-06-15,Maaş Geliri,gelir
+6,12000.0,2026-06-18,E-Ticaret Satışı,gelir
+7,12000.0,2026-04-18,Kira Ödemesi,gider
+8,4500.0,2026-04-22,Market Alışverişi,gider
+9,2000.0,2026-04-28,Fatura Ödemeleri,gider
+10,12000.0,2026-05-18,Kira Ödemesi,gider
+11,6500.0,2026-05-20,Dışarıda Yemek,gider
+12,3800.0,2026-05-30,Ulaşım & Yakıt,gider
+13,14000.0,2026-06-18,Kira Ödemesi,gider
+14,7200.0,2026-06-22,Market Alışverişi,gider
+15,5000.0,2026-06-25,Eğlence & Sosyal,gider
