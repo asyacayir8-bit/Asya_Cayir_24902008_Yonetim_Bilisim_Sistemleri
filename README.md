@@ -5,7 +5,7 @@
 - **Bölümü:** Yönetim Bilişim Sistemleri (YBS)
 ---
 
-## 1. PROJE TANIMI VE AMACI
+## 1. PROJE TANIMI VE AMACI: 
 Bu proje, bireysel kullanıcıların gelir ve giderlerini düzenli bir şekilde kaydedebilmesi, kategorize edebilmesi, bu verileri kalıcı bir CSV dosyasında saklayabilmesi, NumPy ve Pandas kütüphaneleriyle istatistiksel ve dönemsel analizler yapabilmesi ve bu analizleri görsel grafiklere dönüştürebilmesi amacıyla geliştirilmiş **nesne yönelimli (OOP)**, **modüler** ve **veri odaklı** bir konsol/Notebook uygulamasıdır.
 
 ---
